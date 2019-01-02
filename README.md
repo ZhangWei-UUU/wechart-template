@@ -12,5 +12,5 @@
 
 第一步：[登录](http://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login)
 
-！[start1](/static/imgs/start.1.png)
+![start1](/static/imgs/start.1.png)
 
